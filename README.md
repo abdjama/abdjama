@@ -1,4 +1,4 @@
-- 👋 Hi, I'm currently learning HTML and CSS
+- 👋 Hi, I'm currently learning HTML, CSS, and JavaScript!
 
 <!---
 abdjama/abdjama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
